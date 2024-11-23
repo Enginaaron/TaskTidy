@@ -1,4 +1,4 @@
-# TaskTidy
+# TidyTask
 A program that organizes and prioritizes student assignments
 
 # Installation
